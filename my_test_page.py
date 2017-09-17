@@ -10,7 +10,7 @@ def kikoolol():
 if __name__ == "__main__":
     test1 = kikoolol()
     print(test1)
-    test2 = "c'est fini2"
+    test2 = "c'est fini3"
 
     plt.plot([1, 2, 3, 4])
     plt.ylabel('some numbers')
