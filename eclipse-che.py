@@ -2,7 +2,7 @@
 class A:
     def __init__(self):
         self.num = 0
-        self.max = 10
+        self.max = 11
 
     def __iter__(self):
         return self
