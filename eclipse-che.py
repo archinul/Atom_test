@@ -17,5 +17,5 @@ class A:
 
 
 a = A()
-for i in range(11):
+for i in range(12):
     print(next(a))
