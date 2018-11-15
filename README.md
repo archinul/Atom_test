@@ -1,3 +1,3 @@
 # Atom_test
 
-Hello je teste theia. First push!
+Hello je teste theia. Second push!
